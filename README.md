@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ## Hi! 我是海鸽 🐟
 
+![](https://komarev.com/ghpvc/?username=GodL9211&color=brightgreen)
+
+
 - 🐧 全栈攻城狮，爬虫逆向工程师
 - 🌱 干货：<a href="https://github.com/GodL9211/GodL9211/blob/main/%E6%B5%B7%E5%93%A5python.png" target="_blank">公众号『 海哥python 』</a>
 - 📚 免费编程资源：<a href="https://godl9211.github.io/" target="_blank">暴走の海鸽</a>
