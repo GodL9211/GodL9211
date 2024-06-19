@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HaiGe's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodL9211&show_icons=true&theme=radical)
 
 
 ## 我是海鸽 🐟
-
+- 🐧 全栈攻城狮，爬虫逆向工程师
+- 🌱 干货：<a href="https://github.com/liyupi/liyupi/blob/main/wechat_mp.png" target="_blank">公众号『 海哥python 』</a>
+- 📚 免费编程资源：<a href="https://godl9211.github.io/" target="_blank">暴走の海鸽</a>
 
 ## 今年汇总 ✨
 
