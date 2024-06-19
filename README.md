@@ -1,5 +1,6 @@
+<!--
 ## Hi there 👋
-
+-->
 <!--
 **GodL9211/GodL9211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +23,11 @@ Here are some ideas to get you started:
 
 
 - 🐧 全栈攻城狮，爬虫逆向工程师
-- 🌱 干货：<a href="https://github.com/GodL9211/GodL9211/blob/main/%E6%B5%B7%E5%93%A5python.png" target="_blank">公众号『 海哥python 』</a>
+- 🌱 联系我：<a href="https://github.com/GodL9211/GodL9211/blob/main/%E6%B5%B7%E5%93%A5python.png" target="_blank">公众号『 海哥python 』</a>
+- 🌱 联系我：![公众号：悟空聊架构](https://github.com/GodL9211/GodL9211/blob/main/%E6%B5%B7%E5%93%A5python.png)
 - 📚 免费编程资源：<a href="https://godl9211.github.io/" target="_blank">暴走の海鸽</a>
+- 📫 邮箱：GodL9211@126.com
+- 😄 爱好：篮球，徒步
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/GodL9211/count.svg)th visitor.
 
